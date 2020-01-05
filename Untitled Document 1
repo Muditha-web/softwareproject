@@ -4,6 +4,7 @@
     {
         cout << "Hello, World!";
  	cout << "heloo"; 
-	cout << "heloo1";       
+	cout << "heloo1"; 
+	cout << "heloo2";         
 	return 0;
     }
